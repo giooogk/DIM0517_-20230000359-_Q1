@@ -1,2 +1,7 @@
 hello1
+<<<<<<< HEAD
 hello2
+=======
+
+hello2.1
+>>>>>>> b1
